@@ -2,7 +2,7 @@
 # **Project Overview**
 This project aims to perform sentiment analysis by combining insights from both textual reviews and related images. The goal is to build two deep learning models—one for analyzing sentiments from text (RNN-based) and another for analyzing sentiments from images (CNN-based). The project highlights the importance of multimodal learning in understanding complex sentiment cues.
 
-#**Steps Followed**
+# **Steps Followed**
 1.Text Data Preprocessing
     Cleaning (removing HTML tags, punctuation, etc.)
     Tokenization
@@ -30,7 +30,7 @@ This project aims to perform sentiment analysis by combining insights from both 
 6.Model Saving
     Saved trained models for future use
 
-#**Tools and Libraries Used**
+# **Tools and Libraries Used**
 Python
 TensorFlow / Keras
 NLTK
